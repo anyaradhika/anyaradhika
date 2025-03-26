@@ -1,11 +1,11 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+![image](https://github.com/user-attachments/assets/a0e8f83a-2bcf-47c2-9cde-83216a76471a)<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Radhika</h1>
 <h3 align="center">I'm a lasson.</h3>
 
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/2d/55/0e/2d550e48e5fabf33543b51e4d8ccb335.gif" width="100px"></p>
+<img src="https://media.tenor.com/RqGd_Uys3XEAAAAj/transparent-cute.gif" width="100px"></p>
 
 
 <h3 align="center">A moody + irritated person</h3>
