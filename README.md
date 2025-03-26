@@ -12,6 +12,20 @@
 
 - 🔭 I’m currently working on [Artistry](https://artistory.pages.dev/)
 
+## 🙋‍♂️ About Me
+
+- 🔭 I’m in **9th** standard.
+
+- 🌱 I’m currently learning **Quantum Simulations.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 Secreat women org club head.
+
+- 📫 How to reach me **[anyaradhika@gmail.com](mailto:anyaradhika@gmail.com)**
+
+- ⚡ Fun fact **I get astama attack when i laugh too hard :)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/6fwHMyUJzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6fwHMyUJzh" height="30" width="40" /></a>
