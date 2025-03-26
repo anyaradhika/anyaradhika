@@ -10,7 +10,7 @@
 
 <h3 align="center">A moody + irritated person</h3>
 
-- 🔭 I’m currently working on [Artistry](https://artistory.pages.dev/)
+- 🔭 I’m currently working on [cheen tapak dam dam](https://artistory.pages.dev/)
 
 ## 🙋‍♂️ About Me
 
